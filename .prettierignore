@@ -1,0 +1,4 @@
+#ignore files:
+tsconfig.*.json
+tsconfig.json
+vite.config.ts
