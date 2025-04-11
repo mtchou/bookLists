@@ -1,4 +1,4 @@
-import instance from "./axios-config";
+import instance from './axios-config';
 
 export const get = instance.get;
 export const post = instance.post;
